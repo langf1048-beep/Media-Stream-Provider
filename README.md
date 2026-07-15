@@ -1,6 +1,6 @@
-# Stream-Provider
+# Media-Stream-Provider
 
-We provide free open source streaming data as complied android support files rather than direct source for media projects, usable as you want and flexible. We don't contain any ui client UI structures, application views, and tracking engines to keep only the pure data mechanism to connect our backend.
+We provide free open source streaming data as complied android support files rather than direct source for media projects, usable as you want and flexible. We don't contain any client UI structures, application views, and tracking engines to keep only the pure data mechanism to connect our backend.
 
 ## 📁 Repository Map
 
