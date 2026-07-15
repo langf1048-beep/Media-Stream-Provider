@@ -35,5 +35,5 @@ Holds the low-level, headless structural network configurations utilized for med
 This structural arrangement is optimized for fetching with your own streaming app with your creativity.
 
 ## ⬇️ Update
-We have decided to public the direct source soon...
+We have decided to public the direct source and add more provider soon...
 Stay tuned.
